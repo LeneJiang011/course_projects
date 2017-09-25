@@ -18,6 +18,7 @@ The three files together demonstrate a pattern named Composite Pattern. </br>
 According to my own understanding, it is a patttern that you can have the same operation on all the composite elements through one interface.</br>
 Of course there are other patterns, and I'm trying to find my codes...I'm afraid I forget to save them...
 
+---
 ##Peer Programming
 I did the projects during my Software Design course, and in the last lesson I was lucky to work with my classmate Yuuko-san (I'm sorry, but I really don't know the pronunciation of her family name).</br>
 During peer programming, we firstly tried to make some improvements to her codes. It really surprised me that the way she programmed differed greatly from me. </br>
@@ -25,5 +26,5 @@ Yuuko-san also couldn't understand why I coded my program in such a strange way.
 It was not good for our progress, I have to say, and I was always thinking it was my fault since I was the only Chinese in that course. And I couldn't get rid of my previous programming habits which I formed in China.</br>
 Anyway, it's a good experience for me and I just want to share with anyone who spare his/her precious time to read up here.
 
-
+---
 Thanks for reading. Hope you can have fun.
