@@ -25,12 +25,4 @@ By the way, I used UML Designer which is based on Eclipse. In some way it is con
 There are also some softwares like StarUML which can also be used to develop UML modeling, but I think the user interface as well as the buttons are too poorly-designed, which makes me considering that lines of codes are more beautiful than the diagrams.:(</br>
 
 ---
-##Peer Programming</br>
-I did the projects during my Software Design course, and in the last lesson I was lucky to work with my classmate Yuuko-san (I'm sorry, but I really don't know the pronunciation of her family name).</br>
-During peer programming, we firstly tried to make some improvements to her codes. It really surprised me that the way she programmed differed greatly from me. </br>
-Yuuko-san also couldn't understand why I coded my program in such a strange way. And we spent a lot of time figuring out why there were so many differences.</br>
-It was not good for our progress, I have to say, and I was always thinking it was my fault since I was the only Chinese in that course. And I couldn't get rid of my previous programming habits which I formed in China.</br>
-Anyway, it's a good experience for me and I just want to share with anyone who spare his/her precious time to read up here.
-
----
 Thanks for reading. Hope you can have fun.
